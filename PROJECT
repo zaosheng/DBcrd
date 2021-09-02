@@ -1,0 +1,7 @@
+domain: chinaunicom.cn
+repo: dbcrd
+resources:
+- group: apps
+  kind: DBcrd
+  version: v1
+version: "2"
